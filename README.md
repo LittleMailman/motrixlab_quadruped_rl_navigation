@@ -141,3 +141,4 @@ This repository does not include the full official MotrixLab source code, large 
 It only contains custom environment files, training configuration, scripts, documentation, and selected results.
 
 机器人学基础理论，例如坐标系、齐次变换、轨迹规划、PD 控制和强化学习基本概念，将在博客中单独整理。本仓库只保留理解代码和复现实验所必需的内容。
+- Blog: [小邮差不会敲代码](https://www.cnblogs.com/littlemailman)
