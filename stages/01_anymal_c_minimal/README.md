@@ -181,44 +181,12 @@ uv run scripts/view.py \
 本阶段完成后，ANYmal C 模型能够在 MotrixLab viewer 中正常加载，环境能够返回正确的 action space 和 observation space。
 
 ### Viewer Screenshot
+![ANYmal C Minimal Viewer](results/anymal_c_minimal_viewer.png)
 
-后续可将可视化截图放入：
-
-```text
-stages/01_anymal_c_minimal/assets/images/
-```
-
-建议命名：
-
-```text
-anymal_c_minimal_viewer.png
-```
-
-然后在 README 中引用：
-
-```markdown
-![ANYmal C Minimal Viewer](assets/images/anymal_c_minimal_viewer.png)
-```
 
 ### Demo Video
+[ANYmal C Minimal Viewer Demo](results/anymal_c_minimal_viewer.mp4)
 
-后续可将演示视频放入：
-
-```text
-stages/01_anymal_c_minimal/assets/videos/
-```
-
-建议命名：
-
-```text
-anymal_c_minimal_viewer.mp4
-```
-
-然后在 README 中引用：
-
-```markdown
-[ANYmal C Minimal Viewer Demo](assets/videos/anymal_c_minimal_viewer.mp4)
-```
 
 ## Role in This Repository
 
