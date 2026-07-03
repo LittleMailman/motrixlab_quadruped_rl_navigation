@@ -16,11 +16,13 @@ VBot Section01 Obstacle Navigation
 
 ## Project Stages
 
-| Stage | Name                         | Goal                                     |
-| ----- | ---------------------------- | ---------------------------------------- |
-| 01    | ANYmal C Minimal Environment | 搭建最小可运行的 ANYmal C 四足机器人环境                |
-| 02    | ANYmal C Point Navigation    | 跑通 PPO 寻点导航训练链路                          |
-| 03    | VBot Section01 Navigation    | 完成 MotrixArena Section01 越障导航并到达 2026 平台 |
+## Environment Matrix
+
+| Stage | Task | MotrixLab Source | Branch / Version | Purpose |
+|---|---|---|---|---|
+| 01 | ANYmal C Minimal Environment | MotrixLab mainline | main / default | 学习环境注册、模型加载、观测和动作空间 |
+| 02 | ANYmal C Point Navigation | MotrixLab mainline | main / default | 跑通 PPO 寻点导航训练链路 |
+| 03 | VBot Section01 Navigation | MotrixLab arena branch | MotrixArena-S1 | 完成 MotrixArena Section01 越障导航任务 |
 
 ## Highlights
 
