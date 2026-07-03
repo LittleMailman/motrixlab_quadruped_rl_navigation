@@ -2,7 +2,9 @@
 
 基于 MotrixLab 的四足机器人强化学习导航实践项目。
 
-本仓库记录了从 ANYmal C 最小环境搭建、ANYmal C 寻点导航训练，到 VBot Section01 越障导航任务完成的完整实践过程。项目重点放在 MotrixLab 工程实现、强化学习训练流程、奖励函数设计、问题排查和最终结果验证。
+本仓库记录了两个 MotrixLab 相关实践：第一部分基于 MotrixLab 主线环境完成 ANYmal C 最小环境搭建与寻点导航训练；第二部分基于 MotrixArena-S1 分支完成 VBot Section01 越障导航任务。
+
+该项目的使用系统环境是Ubuntu22.04
 
 ## Learning Route
 
