@@ -25,7 +25,8 @@
 * 使用 `view.py` 成功加载 ANYmal C 模型；
 * 验证 action space 和 observation space。
 
-参考官方教程进行目录的搭建 https://motrixlab.readthedocs.io/zh-cn/latest/user_guide/tutorial/physics_environment.html
+参考官方文档进行目录的搭建
+[物理环境配置 — Motrixlab Documentation]( https://motrixlab.readthedocs.io/zh-cn/latest/user_guide/tutorial/physics_environment.html)
 
 ```text
 motrix_envs/my_task/
