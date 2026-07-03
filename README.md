@@ -60,9 +60,7 @@ VBot Section01 Obstacle Navigation
 ├── docs/
 │   ├── setup.md
 │   ├── motrixlab_workflow.md
-│   ├── training_and_evaluation.md
-│   ├── troubleshooting.md
-│   └── results.md
+│   └── training_and_evaluation.md
 │
 ├── stages/
 │   ├── 01_anymal_c_minimal/
@@ -85,8 +83,8 @@ VBot Section01 Obstacle Navigation
 | `docs/setup.md`                   | 说明如何准备两个不同的 MotrixLab 运行环境：主线环境和 `MotrixArena-S1` 分支环境 |
 | `docs/motrixlab_workflow.md`      | 说明 MotrixLab 的基本工作流，包括环境层、训练层和脚本入口                     |
 | `docs/training_and_evaluation.md` | 记录三个阶段的训练、推理和 TensorBoard 命令                           |
-| `docs/troubleshooting.md`         | 整理训练和环境搭建过程中遇到的主要问题与解决方式                               |
-| `docs/results.md`                 | 汇总最终训练配置、推理结果和关键观察                                     |
+
+
 
 ### `stages/`
 
@@ -140,5 +138,5 @@ This repository does not include the full official MotrixLab source code, large 
 
 It only contains custom environment files, training configuration, scripts, documentation, and selected results.
 
-机器人学基础理论，例如坐标系、齐次变换、轨迹规划、PD 控制和强化学习基本概念，将在博客中单独整理。本仓库只保留理解代码和复现实验所必需的内容。
-- Blog: [小邮差不会敲代码](https://www.cnblogs.com/littlemailman)
+机器人学基础理论将在博客中单独整理。本仓库只保留理解代码和复现实验所必需的内容。
+Blog: [小邮差不会敲代码](https://www.cnblogs.com/littlemailman)
